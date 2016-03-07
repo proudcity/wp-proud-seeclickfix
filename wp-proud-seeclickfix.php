@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Proud See ClickFix
+Plugin Name: Proud SeeClickFix
 Plugin URI: http://proudcity.com/
 Description: Integrate the create issue, issue lookup, and issue map box with SeeClickFix
 Version: 1.1.0
